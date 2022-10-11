@@ -1,0 +1,9 @@
+.shadow-card {
+    box-shadow: 10px 10px 10px 10px;
+}
+
+.shadow-hover:hover {
+    background-color: #2222FF;
+    color: #fff;
+    box-shadow: 0 0 10px #fff;
+}
