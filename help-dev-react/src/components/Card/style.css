@@ -2,6 +2,19 @@
     box-shadow: 10px 10px 10px 10px;
 }
 
+.galeria {
+    margin: 20px;
+    width: calc(100% - 20px);
+    overflow-x: auto;
+}
+
+.galeria img {
+    width: 200px;
+    height: 100px;
+    margin: 5px 20px 5px 0;
+    box-shadow: 5px 5px 5px;
+}
+
 .shadow-hover:hover {
     background-color: #2222FF;
     color: #fff;
