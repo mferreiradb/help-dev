@@ -1,1 +1,0 @@
-window.alert('Esta página tem o intuito de fornecer conteúdos para auxiliar no aprendizado de desenvolvimento e a fins')
